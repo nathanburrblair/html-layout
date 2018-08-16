@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(216, 216, 216);
+    height: 15vh;
+}
+
+#blue_box {
+    display: inline-block;
+    background-color: rgb(106, 158, 201);
+    height: 100px;
+    width: 100px;
+    margin: 15px 0 10px 20px;
+}
+
+.intro_message {
+    width: 88vw;
+    margin: 60px auto;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 24px;
+    color: rgb(95, 95, 95);
+}
+
+.blue_bar {
+    background-color: rgb(85, 158, 226);
+    height: 18vh;
+}
+.teal_bar {
+    background-color: rgb(85, 226, 207);
+    height: 18vh;
+}
+.green_bar {
+    background-color: rgb(181, 219, 146);
+    height: 18vh;
+}
+.yellow_bar {
+    background-color: rgb(255, 244, 95);
+    height: 18vh;
+}
